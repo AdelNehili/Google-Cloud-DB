@@ -7,7 +7,7 @@ De plus, il faut:
 
 
 
-############_Command line to connect to the mySQL on goole Cloud Shell_############
+############_Command line to connect to the mySQL from goole Cloud Shell_############
 CARE : this is the 
 gcloud sql connect <my-sql-project> --user=root
 
